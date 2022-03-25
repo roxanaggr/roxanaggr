@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roxanaggr
-- 👀 I’m interested in Art, Ceramics, Music, Drinks, Slow Life in the spare time.
+- 👀 I’m interested in Art, Ceramics, Music, Mixology, Slow Life in the spare time.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on UI
 - 📫 How to reach me <a href="https://www.linkedin.com/in/roxanaggr/">Linkedin</a> 
