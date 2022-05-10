@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @roxanaggr
-- 👀 I’m interested in Art, Ceramics, Music, Mixology, Slow Life in the spare time.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on UI
-- 📫 How to reach me <a href="https://www.linkedin.com/in/roxanaggr/">Linkedin</a> 
+## Hi there! I'm Roxana.
+##### I'm Front End Development Student in [Laboratoria](https://github.com/Laboratoria) and a Visual Designer. I have a background in Art Direction that has led me to write thorough lines of code and to have one goal in mind: create aesthetically and functional digital products.
 
-<!---
-roxanaggr/roxanaggr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###### Let's work together!
+###### :mailbox: [Let's work together!](mailto:roxanaggr@gmail.com "Let's work together") 
+###### :bulb: Or [contact me via Linkedin](https://www.linkedin.com/in/roxanaggr/ "linkedin")
