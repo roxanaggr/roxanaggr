@@ -2,8 +2,7 @@
 #### A Front End Developer Student and Visual Designer
 I'm a curious human with a background in Art Direction. This has led me to create thorough lines of code and to develop aesthetically and functional digital products.
 
-- 👩‍💻 I’m currently working on a **Notes CRUD SPA**. 
-- 🌱 I’m currently learning React 
+- 💻 I’m currently learning **React** 
 - ☕ I’m looking to collaborate on UI and Product Design 
 - 🦸‍♀️ Pronouns: She / Her
 - ⚡ I'm an outdoorsy person and love to hike.
